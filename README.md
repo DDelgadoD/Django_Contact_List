@@ -33,10 +33,10 @@
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Simple Contact List</h3>
 
   <p align="center">
-    project_description
+    A very simple contact list in Django implementing a Coursera Project
     <br />
     <a href="https://github.com/DDelgadoD/Django_Contact_List"><strong>Explore the docs »</strong></a>
     <br />
