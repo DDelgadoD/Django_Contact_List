@@ -26,7 +26,7 @@ SECRET_KEY = '_dudcc$-nk3@pk8v+c%$oq4k(=_+cq2-db$%z)jv7h@dw*17e^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://django-contacts-list.herokuapp.com/']
+ALLOWED_HOSTS = ['django-contacts-list.herokuapp.com']
 
 
 # Application definition
@@ -88,6 +88,7 @@ DATABASES = {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'ciba',
         }
+}
     
 
 
